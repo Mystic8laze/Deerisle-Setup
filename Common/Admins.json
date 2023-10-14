@@ -1,0 +1,102 @@
+{
+    "version": 2,
+    "admins": [
+        {
+            "steamid": "",
+            "ingameNameForPermissions": "",
+            "comment": "Owner",
+            "grantAllPermissions": 1,
+            "permissionGroups": [
+                "Owner"
+            ]
+        },
+        {
+            "steamid": "",
+            "ingameNameForPermissions": "",
+            "comment": "Another Admin",
+            "grantAllPermissions": 0,
+            "permissionGroups": [
+                "Admin"
+            ]
+        },
+        {
+            "steamid": "76561198969913387",
+            "ingameNameForPermissions": "",
+            "comment": "And a third one",
+            "grantAllPermissions": 0,
+            "permissionGroups": [
+                "Support"
+            ]
+        }
+    ],
+    "groups": [
+        {
+            "name": "Owner",
+            "permissions": {
+                "atm.position.change": 1,
+                "atm.group.change": 1,
+                "icons.change": 1,
+                "garage.static.change": 1,
+                "appearance.change": 1,
+                "garage.pin.reset": 1,
+                "atm.moneydrop": 1,
+                "adminmenu.open": 1,
+                "currencies.change": 1,
+                "atm.player.change": 1,
+                "atm.general.change": 1,
+                "atm.general.view": 1
+            }
+        },
+        {
+            "name": "Admin",
+            "permissions": {
+                "atm.position.change": 1,
+                "atm.group.change": 1,
+                "icons.change": 1,
+                "garage.static.change": 1,
+                "appearance.change": 1,
+                "garage.pin.reset": 1,
+                "atm.moneydrop": 1,
+                "adminmenu.open": 1,
+                "currencies.change": 1,
+                "atm.player.change": 1,
+                "atm.general.change": 1,
+                "atm.general.view": 1
+            }
+        },
+        {
+            "name": "Moderator",
+            "permissions": {
+                "atm.position.change": 0,
+                "atm.group.change": 1,
+                "icons.change": 0,
+                "garage.static.change": 0,
+                "appearance.change": 0,
+                "garage.pin.reset": 1,
+                "atm.moneydrop": 0,
+                "adminmenu.open": 1,
+                "currencies.change": 0,
+                "atm.player.change": 1,
+                "atm.general.change": 0,
+                "atm.general.view": 1
+            }
+        },
+        {
+            "name": "Support",
+            "permissions": {
+                "atm.position.change": 0,
+                "atm.group.change": 0,
+                "icons.change": 0,
+                "garage.static.change": 0,
+                "appearance.change": 0,
+                "garage.pin.reset": 0,
+                "atm.moneydrop": 0,
+                "adminmenu.open": 1,
+                "currencies.change": 0,
+                "atm.player.change": 0,
+                "atm.general.change": 0,
+                "atm.general.view": 0
+            }
+        }
+    ]
+}
