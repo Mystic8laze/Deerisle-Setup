@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<type name="BC_Anzio">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Anzio_Magazine" chance="0.90" />
+	</attachments>	
+</type>
+    <type name="BC_URL20">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_PTRD">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_CSR50">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_BFG">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AR50">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_A2CHEY">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_A2CHEY_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_A2CHEY_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_ARS12">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_ARS12_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_ARS12_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_TAC95">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_TAC95_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_SNIPEX">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_SNIPEX_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_OSV96">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_OSV96_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_NTW">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_NTW_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_SERBU">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_ASH12">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="ACOGOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Wrapped_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_ASH12_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_VSSK">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_VSSK_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="AS50">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AS50_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Asiimov">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Atheris">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_DragonLore">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Gungnir">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_HyperBeast">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Medusa">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_NeoNoir">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_OniTaiji">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Redline">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_ThePrince">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Anime">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Cyrex">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_DarkSmoke">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Dawning">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_DeadlyBird">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_DeadPool">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_EletricHive">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_EliteBuild">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Fade">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_FeverDream">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_GoldenPhoenix">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Graphite">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_HellGate">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_IceTitan">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_LightningStrike">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Lilium">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Phobos">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_RailGun">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_RoyalDice">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_SafariMesh">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_StarKeeper">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Tactical">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_TertRoner">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_TokyoGhoul">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_UltraJade">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Unicorn">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Vertex">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_WormGod">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWP_Xray">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AWP_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AX50">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AX50_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AX50_Black">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_AX50_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_DSR">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_DSR_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_DSR_Fall">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_DSR_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_DSR_Winter">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_DSR_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M82">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M82_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_GM6Lynx">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_GM6Lynx_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M82_Black">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M82_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M82_Desert">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M82_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M82_Snow">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M82_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M98B">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_50Cal_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M98B_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Ruger">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Ruger_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M107">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M107_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M2010">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M2010_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M2010_Blue">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M2010_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_TAC21">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_TAC21_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_CDX50">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_CDX50_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M99">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_SnowOwl">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_SnowOwl_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_SV98">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_SV98_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Delta">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Delta_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_DELTA_Caution">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Delta_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_DELTA_Red">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Delta_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_DELTA_Stripes">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Delta_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_DELTA_Fade">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Delta_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_DELTA_LowFade">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Delta_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_DVL">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_DVL_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_DVLM2_Green">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_DVL_Magazine" chance="0.90" />
+	</attachments>	
+</type>
+    <type name="BC_SRS">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_SRS_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_K14">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_K14_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M100">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M100_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M110_Tan">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M110_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M1A">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M1A_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M200">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M200_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M200_Camo">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M200_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M200_GreenCamo">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M200_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M300">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M300_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M1000X">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_M1000X_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_R700A7">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_R700_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_FeverDream">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_BigIron">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_BitW">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_DragonFire">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_Abyss">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_AcidFade">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_GhostCrusader">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_Harpy">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_HyperBeast">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_Necropos">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_NeedleWork">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_Novritsch">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Scout_Tread">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_408_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_scmagazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_ScarH">
+	<attachments chance="0.90">
+		<item name="BC_SCARH_Magazine" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Cordura_Suppressor" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_PKP">
+	<attachments chance="0.90">
+		<item name="BC_PKP_Magazine" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_PBS4_Suppressor" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_G36">
+	<attachments chance="0.90">
+		<item name="BC_G36_Magazine" chance="0.90" />
+	</attachments>
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>
+</type>
+    <type name="BC_T95">
+	<attachments chance="0.90">
+		<item name="BC_50Rd308_Magazine" chance="0.90" />
+	</attachments>
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>
+</type>
+    <type name="BC_HK416">
+	<attachments chance="0.90">
+		<item name="Mag_STANAG_60Rnd" chance="0.90" />
+	</attachments>
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>
+</type> 
+    <type name="BC_M60">
+	<attachments chance="0.90">
+		<item name="BC_M60_Magazine" chance="0.90" />
+	</attachments>
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>
+</type> 
+    <type name="BC_FAMASF1">
+	<attachments chance="0.90">
+		<item name="Mag_STANAG_60Rnd" chance="0.90" />
+	</attachments>
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>
+</type>
+    <type name="BC_M240">
+	<attachments chance="0.90">
+		<item name="BC_M240_Magazine" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Cordura_Suppressor" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_PKM">
+	<attachments chance="0.90">
+		<item name="BC_PKM_Magazine" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_Cordura_Suppressor" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_KORD">
+	<attachments chance="0.90">
+		<item name="BC_KORD_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_M249">
+	<attachments chance="0.90">
+		<item name="BC_M249_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_Zafir">
+	<attachments chance="0.90">
+		<item name="BC_Zafir_Magazine" chance="0.90" />
+	</attachments>
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>	
+</type>
+    <type name="BC_C14_Black">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_338_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_C14_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_AWM_Black">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.90">
+	    <item name="HuntingOptic" chance="0.90" />
+		<item name="AD_NFATACR" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_338_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_C14_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_MCXSPEAR_Black">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_MCXSPEAR_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_MCXSPEAR_Tan">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_MCXSPEAR_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_FNEVOLYS_Tan">
+	<attachments chance="0.90">
+		<item name="M68Optic" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_338_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_FNEVOLYS_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_HT76">
+	<attachments chance="0.90">
+		<item name="M68Optic" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_338_Suppressor" chance="0.90" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="BC_HT76_Magazine" chance="0.90" />
+	</attachments>
+</type>
+    <type name="BC_MP7A1">
+	<attachments chance="0.90">
+		<item name="BC_MP7A1_40Rd_Magazine" chance="0.90" />
+		<item name="BC_MP7A1_60Rd_Magazine" chance="0.90" />
+	</attachments>
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>
+</type>
+    <type name="BC_CZScorpion">
+	<attachments chance="0.90">
+		<item name="BC_CZScorpion_Magazine" chance="0.90" />
+	</attachments>
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>
+</type>
+    <type name="BC_ACR17S">
+	<damage min="0.15" max="0.45" />
+	<attachments chance="0.60">
+		<item name="BC_ACR17S_Magazine" chance="0.60" />
+	</attachments>
+	<attachments chance="0.60">
+	    <item name="BC_Cordura_Suppressor_Black" chance="0.60" />
+	</attachments>	
+	<attachments chance="0.50">
+	    <item name="HBd_Hamr_MK4_and_Crimson_CTS_Optics" chance="0.50" />
+	</attachments>
+	<attachments chance="0.30">
+	    <item name="BC_ForeGrip_SLSG_Black" chance="0.30" />
+	</attachments>
+</type>
+</spawnabletypes>

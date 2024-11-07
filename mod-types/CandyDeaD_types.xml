@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="Candy_MustFrank_Wheel">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_White">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_NoGun">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_NoGun_White">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_Doors_Driver">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_Doors_CoDriver">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_Doors_Trunk">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_Doors_Trunk0">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_Doors_Hood">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_Doors_Driver_White">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_Doors_CoDriver_White">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_Doors_Trunk_White">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_Doors_Trunk0_White">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_MustFrank_Doors_Hood_White">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Candy_OshkoshApoc">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Red">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Green">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Black">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Wheel">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Wheel_Black">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Driver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_CoDriver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Cargo1">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Cargo2">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Hood">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Trunk">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Driver_Red">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_CoDriver_Red">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Cargo1_Red">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Cargo2_Red">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Hood_Red">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Trunk_Red">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Driver_Green">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_CoDriver_Green">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Cargo1_Green">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Cargo2_Green">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Hood_Green">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Trunk_Green">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Driver_Black">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_CoDriver_Black">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Cargo1_Black">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Cargo2_Black">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Hood_Black">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_OshkoshApoc_Doors_Trunk_Black">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Candy_Prado_Wheel">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Wheel_Wald">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Wheel_White">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Wheel_White_Wald">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Yellow">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Blue">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Red">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Brown">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Grey">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Pink">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_White">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Black">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Camo">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Rust">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Yellow_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Blue_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Red_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Brown_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Grey_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Pink_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_White_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Black_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Camo_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_Rust_Wald">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Candy_Prado_doors_Driver">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_Driver_Yellow">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_Driver_Blue">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_Driver_Red">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_Driver_Brown">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_Driver_Grey">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_Driver_Pink">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_Driver_White">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_Driver_Black">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_Driver_Camo">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_Driver_Rust">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver_Yellow">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver_Blue">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver_Red">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver_Brown">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver_Grey">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver_Pink">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver_White">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver_Black">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver_Camo">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_coDriver_Rust">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1_Yellow">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1_Blue">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1_Red">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1_Brown">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1_Grey">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1_Pink">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1_White">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1_Black">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1_Camo">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo1_Rust">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2_Yellow">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2_Blue">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2_Red">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2_Brown">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2_Grey">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2_Pink">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2_White">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2_Black">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2_Camo">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_cargo2_Rust">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood_Yellow">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood_Blue">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood_Red">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood_Brown">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood_Grey">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood_Pink">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood_White">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood_Black">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood_Camo">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_hood_Rust">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk_Yellow">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk_Blue">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk_Red">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk_Brown">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk_Grey">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk_Pink">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk_White">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk_Black">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk_Camo">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_doors_trunk_Rust">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Bumper">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Bumper_Yellow">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Bumper_White">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Bumper_Blue">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Bumper_Red">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Bumper_Brown">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Bumper_Grey">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Bumper_Pink">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Bumper_Camo">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+	<type name="Candy_Prado_Bumper_Rust">
+	  <nominal>0</nominal>
+	  <lifetime>2700</lifetime>
+	  <restock>0</restock>
+	  <min>0</min>
+	  <quantmin>-1</quantmin>
+	  <quantmax>-1</quantmax>
+	  <cost>100</cost>
+	  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	  <category name="tools" />
+	  <tag name="floor" />
+	  <usage name="Industrial" />
+	  <usage name="Farm" />
+	</type>
+</types>

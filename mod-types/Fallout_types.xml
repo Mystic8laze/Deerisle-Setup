@@ -1,0 +1,5728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!--Board Games-->
+<type name="Fallout_BoardGame_001">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_002">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_003">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_004">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_005">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_006">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_007">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_008">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_009">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_010">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_011">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_012">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_013">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_014">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_015">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_016">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_017">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_018">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_019">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_020">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_021">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_022">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_023">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_024">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_025">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_026">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_027">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_028">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_029">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_030">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_031">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_032">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_033">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_034">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_035">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_036">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_037">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_038">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_039">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_040">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_041">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_042">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_043">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_044">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_045">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_046">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_047">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_048">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_049">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_050">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_051">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_052">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_053">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_054">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_055">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_056">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_057">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_058">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_059">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_060">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_061">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_062">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_063">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_064">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_065">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_066">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_067">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_068">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_069">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_070">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_071">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_072">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_073">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_074">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_075">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_076">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_077">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_078">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_079">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_080">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_081">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_082">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_083">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_084">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_085">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_086">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_087">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_088">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_089">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_090">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_091">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_092">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_093">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_094">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_095">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_096">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_097">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_098">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_099">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_BoardGame_100">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+	<!--BoardGame Shelf-->
+	<type name="land_BoardGameShelf">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+<type name="land_BoardGameShelf_Kit">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+	<!--Portable Collection Storage-->
+<type name="Fallout_Clipboard">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_GameBox">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Fallout_LeatherSatchel">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+
+	<!--Magazines / Magazine Shelf-->
+	<type name="land_MagazineRack">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+<type name="land_MagazineRack_Kit">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+
+<type name="Magazine_ActionNovels_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ActionNovels_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ActionNovels_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ActionNovels_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ActionNovels_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_AllWestern_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_AllWestern_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_AllWestern_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_AllWestern_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_AllWestern_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ArmyAttack_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ArmyAttack_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ArmyAttack_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ArmyAttack_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ArmyAttack_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Astounding_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Astounding_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Astounding_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Astounding_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Astounding_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Atom_AgeCombat_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Atom_AgeCombat_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Atom_AgeCombat_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Atom_AgeCombat_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Atom_AgeCombat_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_BattleStories_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_BattleStories_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_BattleStories_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_BattleStories_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_BattleStories_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_BlazingWestern_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_BlazingWestern_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_BlazingWestern_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_BlazingWestern_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_BlazingWestern_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_CaptainFuture_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_CaptainFuture_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_CaptainFuture_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_CaptainFuture_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_CaptainFuture_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Danger_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Danger_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Danger_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Danger_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Danger_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Danger_06">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Danger_07">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Danger_08">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Danger_09">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Danger_10">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_DocSavage_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_DocSavage_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_DocSavage_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_DocSavage_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_DocSavage_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_FamousFantastic_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_FamousFantastic_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_FamousFantastic_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_FamousFantastic_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_FamousFantastic_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Fantastic_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Fantastic_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Fantastic_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Fantastic_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Fantastic_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_FifteenSports_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_FifteenSports_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_FifteenSports_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_FifteenSports_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_FifteenSports_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Flirt_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Flirt_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Flirt_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Flirt_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Flirt_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Flirt_06">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Flirt_07">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Flirt_08">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Flirt_09">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Flirt_10">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_JungleStories_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_JungleStories_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_JungleStories_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_JungleStories_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_JungleStories_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Knockout_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Knockout_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Knockout_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Knockout_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Knockout_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Love_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Love_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Love_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Love_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Love_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_MansLife_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_MansLife_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_MansLife_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_MansLife_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_MansLife_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Nifty_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Nifty_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Nifty_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Nifty_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Nifty_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ScienceWonder_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ScienceWonder_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ScienceWonder_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ScienceWonder_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ScienceWonder_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ScienceWonder_06">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ScienceWonder_07">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ScienceWonder_08">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ScienceWonder_09">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_ScienceWonder_10">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_SouthSeaStories_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_SouthSeaStories_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_SouthSeaStories_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_SouthSeaStories_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_SouthSeaStories_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Stag_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Stag_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Stag_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Stag_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_Stag_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_StartlingStories_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_StartlingStories_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_StartlingStories_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_StartlingStories_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_StartlingStories_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_TheShadow_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_TheShadow_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_TheShadow_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_TheShadow_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_TheShadow_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_TrueMen_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_TrueMen_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_TrueMen_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_TrueMen_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_TrueMen_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_WeirdMysteries_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_WeirdMysteries_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_WeirdMysteries_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_WeirdMysteries_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_WeirdMysteries_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_WeirdTales_01">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_WeirdTales_02">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_WeirdTales_03">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_WeirdTales_04">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Magazine_WeirdTales_05">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+	<!--Postcards / Postcard Rack-->
+	<type name="land_PostcardRack">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+<type name="land_PostcardRack_Kit">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_alabama">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_alaska">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_arizona">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_arkansas">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_california">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_colorado">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_connecticut">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_delaware">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_florida">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_georgia">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_hawaii">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_idaho">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_illinois">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_indiana">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_iowa">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_kansas">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_kentucky">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_louisiana">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_maine">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_maryland">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_massachusetts">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_michigan">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_minnesota">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_mississippi">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_missouri">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_montana">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_nebraska">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_nevada">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_newhampshire">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_newjersey">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_newmexico">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_newyork">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_northcarolina">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_northdakota">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_ohio">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_oklahoma">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_oregon">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_pennsylvania">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_rhodeisland">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_southcarolina">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_southdakota">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_tennessee">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_texas">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_utah">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_vermont">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_virginia">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_washington">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_westvirginia">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_wisconsin">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Postcard_wyoming">
+	<nominal>1</nominal>
+	<lifetime>5600</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<usage name="Police"/>
+	<usage name="Town"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<!--Completition Rewards-->
+	<type name="Fallout_Blue_Keycard">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Fallout_Red_Keycard">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Fallout_Black_Keycard">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+<!-- Collection Completition Rewards-->
+	<type name="Fallout_EyebotToy">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Fallout_RocketToy">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Fallout_SheriffBadge">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+<!--Lunch Box Card Storage-->
+	<type name="Fallout_LunchBox_SciFi">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<tag name="shelves"/>
+		<usage name="town"/>
+		<usage name="village"/>
+		<usage name="office"/>
+		<usage name="school"/>
+		<value name="tier1"/>
+		<value name="tier2"/>
+		<value name="tier3"/>
+		<value name="tier4"/>
+	</type>
+	<type name="Fallout_LunchBox_Western">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<tag name="shelves"/>
+		<usage name="town"/>
+		<usage name="village"/>
+		<usage name="office"/>
+		<usage name="school"/>
+		<value name="tier1"/>
+		<value name="tier2"/>
+		<value name="tier3"/>
+		<value name="tier4"/>
+	</type>
+	<type name="Fallout_LunchBox_PinUp">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<tag name="shelves"/>
+		<usage name="town"/>
+		<usage name="village"/>
+		<usage name="office"/>
+		<usage name="school"/>
+		<value name="tier1"/>
+		<value name="tier2"/>
+		<value name="tier3"/>
+		<value name="tier4"/>
+	</type>
+	<!--Card Packs-->
+<type name="Fallout_CardPack_Pinup">
+<nominal>30</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>20</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="containers"/>
+<tag name="shelves"/>
+<usage name="town"/>
+<usage name="village"/>
+<usage name="office"/>
+<usage name="school"/>
+<value name="tier1"/>
+<value name="tier2"/>
+<value name="tier3"/>
+<value name="tier4"/>
+</type>
+<type name="Fallout_CardPack_SciFi">
+<nominal>25</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>15</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="containers"/>
+<tag name="shelves"/>
+<usage name="town"/>
+<usage name="village"/>
+<usage name="office"/>
+<usage name="school"/>
+<value name="tier1"/>
+<value name="tier2"/>
+<value name="tier3"/>
+<value name="tier4"/>
+</type>
+<type name="Fallout_CardPack_Western">
+<nominal>20</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>10</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="containers"/>
+<tag name="shelves"/>
+<usage name="town"/>
+<usage name="village"/>
+<usage name="office"/>
+<usage name="school"/>
+<value name="tier1"/>
+<value name="tier2"/>
+<value name="tier3"/>
+<value name="tier4"/>
+</type>
+
+<!--Poster Building Kits-->
+<type name="land_CardPoster_Kit_Pinup">
+<nominal>15</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>10</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+<usage name="industrial"/>
+<usage name="town"/>
+<usage name="village"/>
+<value name="tier1"/>
+<value name="tier2"/>
+</type>
+<type name="land_CardPoster_Kit_SciFi">
+<nominal>15</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>10</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+<usage name="industrial"/>
+<usage name="town"/>
+<usage name="village"/>
+<value name="tier1"/>
+<value name="tier2"/>
+</type>
+<type name="land_CardPoster_Kit_Western">
+<nominal>15</nominal>
+<lifetime>7200</lifetime>
+<restock>1800</restock>
+<min>10</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="tools"/>
+<tag name="shelves"/>
+<usage name="industrial"/>
+<usage name="town"/>
+<usage name="village"/>
+<value name="tier1"/>
+<value name="tier2"/>
+</type>
+
+<!--Posters-->
+<type name="Land_CardPoster_Pinup">
+<lifetime>3888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Land_CardPoster_SciFi">
+<lifetime>3888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Land_CardPoster_Western">
+<lifetime>3888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+<!--PinUp Cards-->
+<type name="PinUp_001">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_002">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_003">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_004">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_005">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_006">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_007">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_008">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_009">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_010">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_011">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_012">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_013">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_014">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_015">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_016">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_017">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_018">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_019">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_020">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_021">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_022">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_023">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_024">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_025">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_026">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_027">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_028">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_029">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_030">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_031">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_032">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_033">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_034">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_035">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_036">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_037">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_038">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_039">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_040">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_041">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_042">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_043">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_044">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_045">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_046">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_047">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_048">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_049">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_050">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_051">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_052">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_053">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_054">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_055">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_056">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_057">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_058">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_059">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_060">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_061">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_062">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_063">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_064">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_065">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_066">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_067">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_068">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_069">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_070">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_071">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_072">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_073">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_074">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_075">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_076">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_077">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_078">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_079">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_080">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_081">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_082">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_083">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_084">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_085">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_086">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_087">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_088">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_089">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_090">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_091">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_092">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_093">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_094">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_095">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_096">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_097">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_098">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_099">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="PinUp_100">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+<!--SciFi Cards-->
+<type name="SciFi001">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi002">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi003">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi004">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi005">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi006">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi007">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi008">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi009">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi010">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi011">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi012">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi013">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi014">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi015">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi016">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi017">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi018">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi019">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi020">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi021">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi022">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi023">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi024">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi025">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi026">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi027">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi028">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi029">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi030">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi031">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi032">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi033">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi034">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi035">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi036">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi037">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi038">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi039">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi040">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi041">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi042">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi043">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi044">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi045">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi046">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi047">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi048">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi049">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi050">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi051">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi052">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi053">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi054">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi055">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi056">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi057">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi058">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi059">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi060">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi061">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi062">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi063">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi064">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi065">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi066">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi067">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi068">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi069">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi070">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi071">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi072">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi073">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi074">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi075">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi076">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi077">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi078">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi079">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi080">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi081">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi082">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi083">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi084">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi085">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi086">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi087">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi088">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi089">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi090">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi091">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi092">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi093">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi094">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi095">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi096">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi097">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi098">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi099">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SciFi100">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+<!--Western Cards-->
+<type name="Western001">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western002">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western003">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western004">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western005">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western006">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western007">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western008">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western009">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western010">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western011">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western012">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western013">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western014">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western015">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western016">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western017">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western018">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western019">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western020">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western021">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western022">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western023">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western024">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western025">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western026">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western027">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western028">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western029">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western030">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western031">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western032">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western033">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western034">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western035">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western036">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western037">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western038">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western039">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western040">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western041">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western042">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western043">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western044">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western045">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western046">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western047">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western048">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western049">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western050">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western051">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western052">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western053">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western054">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western055">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western056">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western057">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western058">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western059">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western060">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western061">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western062">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western063">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western064">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western065">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western066">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western067">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western068">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western069">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western070">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western071">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western072">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western073">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western074">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western075">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western076">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western077">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western078">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western079">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western080">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western081">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western082">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western083">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western084">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western085">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western086">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western087">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western088">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western089">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western090">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western091">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western092">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western093">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western094">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western095">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western096">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western097">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western098">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western099">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Western100">
+<lifetime>21600</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+</types>

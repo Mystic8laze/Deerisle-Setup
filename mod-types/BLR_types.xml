@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+    <type name="BLR_WELL">
+	    <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="containers" />
+        <tag name="ground" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+	</type>
+	<type name="BLR_FUEL">
+	    <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+	    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="containers" />
+        <tag name="ground" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+	</type>
+	<type name="BLR_BANDAGE">
+		<nominal>2</nominal>
+		<lifetime>5600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Medic" />
+	</type>
+	<type name="BLR_GARDENLIME">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Farm" />
+	</type>
+	<type name="BLR_GUN_CLEANING">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Military" />
+		<usage name="Police" />
+		<usage name="Hunting" />
+	</type>
+	<type name="BLR_9V">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Industrial"/>
+        <usage name="Village"/>
+    </type>
+	<type name="BLR_TRUCK_BATTERY">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>360</restock>
+        <min>1</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="BLR_CAR_BATTERY">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>360</restock>
+        <min>1</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="BLR_DUCTTAPE">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="BLR_DISINFECTANTSPRAY">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="BLR_PETROLLIGHTER">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+	<type name="BLR_LEATHERSEWING">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Industrial"/>
+        <usage name="Village"/>
+    </type>
+	<type name="BLR_LARGEGASCANISTER">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="BLR_SEWING">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="BLR_TIREREPAIR">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="BLR_ELECTRONICREPAIR">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="BLR_EPOXYPUTTY">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Industrial"/>
+    </type>	
+	<type name="BLR_BANDAGE">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_GARDENLIME">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_GUN_CLEANING">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+    <type name="BLR_WELL">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_FUEL">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>         
+	<type name="BLR_9V">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_TRUCK_BATTERY">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_CAR_BATTERY">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_DUCTTAPE">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_DISINFECTANTSPRAY">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_PETROLLIGHTER">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_LEATHERSEWING">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_LEATHERSEWING">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_LARGEGASCANISTER">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_SEWING">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_TIREREPAIR">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_ELECTRONICREPAIR">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_EPOXYPUTTY">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+    <type name="BLR_WARTHOG">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type> 
+	<type name="BLR_WARTHOG_Wheel">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"count_in_hoarder="0"count_in_map="1"count_in_player="0"crafted="0"deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BLR_WARTHOG_Wheel_Destroyed">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"count_in_hoarder="0"count_in_map="1"count_in_player="0"crafted="0"deloot="0"/>
+		<category name="vehiclesparts"/>
+	</type>
+</types>

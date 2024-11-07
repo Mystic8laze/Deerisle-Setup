@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<type name="SPN_FallItem_OldMoney1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallItem_OldMoney2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallItem_OldMoney3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallMountBag_1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallMountBag_2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallMountBag_3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallMountBag_4">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallMountBag_5">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallMountBag_6">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallMountBag_7">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallMountBag_8">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallMountBag_9">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallMountBag_10">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallHuntBag_1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallHuntBag_2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallHuntBag_3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallHuntBag_4">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallHuntBag_5">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallHuntBag_6">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallHuntBag_7">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallHuntBag_8">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSmershVest_1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSmershVest_2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSmershVest_3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallClothing_Jeans1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallClothing_Jeans2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallClothing_Jeans3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallClothing_Jeans4">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_BS1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_BS2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_CL1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_CL2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_Enclave1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_Enclave2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_Enclave3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_KHANS">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_NCR1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_NCR2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_NCR3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_NCR4">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_NCR5">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_NCRNV">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_NCRpolice1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_NCRpolice2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_NCRpolice3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_NCRMP">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallChev_USA">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBarrel_x200">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBarrel_x300">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBarrel_x500">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSeaChest_x100">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSeaChest_x150">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSeaChest_x200">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSeaChest_x500">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSugarBombs_1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSugarBombs_2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSugarBombs_3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSugarBombs_4">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_CRAM1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_CRAM2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_CRAM1_Opened">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_CRAM2_Opened">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_Campbells1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_Campbells2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_Campbells1_Opened">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_Campbells2_Opened">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_CannedCorn">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_CannedCorn_Opened">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_NukaCola1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_NukaCola2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_NukaCola3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_NukaCola4">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_NukaCola5">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_NukaCola6">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_NukaCola7">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_Sunset1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_Water1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_Water2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallFood_Water3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_Bible">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_Journal">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_TeslaJournal">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_TeslaJournal2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_JournalGiB">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_JournalGiB2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_JournalHotRodded">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_JournalSurg">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_JournalFood">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_Junk1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_Junk2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_Junk3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_Junk4">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_Junk5">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_Junk6">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_Junk7">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallBook_Junk8">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSurv_Survival1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSurv_Survival2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSurv_Survival3">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSurv_Survival4">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSurv_Survival5">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSurv_Survival6">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSurv_Survival7">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSurv_Survival8">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallSurv_Survival9">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallItem_Buffout">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallItem_RadX1">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallItem_RadX2">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="SPN_FallItem_Vitamins">
+<lifetime>31888000</lifetime>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+</types>

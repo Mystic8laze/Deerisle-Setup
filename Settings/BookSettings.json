@@ -1,0 +1,403 @@
+{
+    "m_Version": 3,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 0,
+    "RuleCategories": [
+        {
+            "CategoryName": "General",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.1.",
+                    "RuleText": "** ~ Please Read & FOLLOW the RULES or Risk being kicked! ~ **"
+                },
+                {
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "** ADMIN Decisions are to be Respected and are Final!! **"
+                },
+                {
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "Respect players opinions or views, they may differ to yours!"
+                },
+                {
+                    "RuleParagraph": "1.4.",
+                    "RuleText": "You're In game name needs to MATCH Discord name.. You risk being removed!"
+                },
+                {
+                    "RuleParagraph": "1.5.",
+                    "RuleText": "BUILD a Flagpole & Raise your flag before you can build. Base can be 4x4x2!"
+                },
+                {
+                    "RuleParagraph": "1.6.",
+                    "RuleText": "SECURE your Base with a Codelock, buy a Key Assign it to your Vehicle & Lock it!"
+                },
+                {
+                    "RuleParagraph": "1.7.",
+                    "RuleText": "NO RAIDING - LOOTING of Bases or Vehicles on this server."
+                },
+                {
+                    "RuleParagraph": "1.8.",
+                    "RuleText": "BUILDING 1000m from Traders - 400m from Military - 100m from Towns."
+                },
+                {
+                    "RuleParagraph": "1.9.",
+                    "RuleText": "BUILDING 500m from Another Players BASE."
+                },
+                {
+                    "RuleParagraph": "1.10.",
+                    "RuleText": "NO Building or Camping near AIR DROP Zones."
+                },
+                {
+                    "RuleParagraph": "1.11.",
+                    "RuleText": "GARAGE Cars before the leaving server at ANY Parking Meter."
+                },
+                {
+                    "RuleParagraph": "1.12.",
+                    "RuleText": "Vehicle/Heli/Keys are not replaced if the Vehicle/Heli explode or key lost!"
+                },
+                {
+                    "RuleParagraph": "1.13.",
+                    "RuleText": "TRASH your unwanted items in Burning Barrels or Bins, Keep the Server clean!"
+                },
+                {
+                    "RuleParagraph": "1.14.",
+                    "RuleText": "When posting content include a description & place it in the appropriate channel."
+                },
+                {
+                    "RuleParagraph": "1.15.",
+                    "RuleText": "NO Leaving Active Explosives on the Map - NO Destroying Property of other Players!!"
+                },
+                {
+                    "RuleParagraph": "1.16.",
+                    "RuleText": "NO Loot cycling!!"
+                }
+            ]
+        }
+    ],
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "ShowHaBStats": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Base-Building Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Raid Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Map Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Party Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Territory Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Donate",
+            "URL": "https://www.paypal.me/MysticIc3Lady",
+            "IconName": "Donate",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Discord",
+            "URL": "https://discord.gg/5cSnc9txk7",
+            "IconName": "Discord",
+            "IconColor": -9270822
+        }
+    ],
+    "Descriptions": [
+        {
+            "CategoryName": "Restart + Wipe Schedule",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Soulz_of_8laze|PvE/PvP|100kStart$ Server Restarts every 3 hours Qld time"
+                },
+                {
+                    "DescriptionText": "(4a- 7a- 10a- 1p- 4p- 7p- 10p- 1a)"
+                },
+                {
+                    "DescriptionText": "Wipe every 3 months, Aug, Nov, Feb, May end of that Month."
+                },
+                {
+                    "DescriptionText": "Vehicles that spawn on Deerisle Won't be replaced if lost/despawn/explodes/drowns."
+                },
+                {
+                    "DescriptionText": "Most importantly HAVE FUN!!!"
+                },
+                {
+                    "DescriptionText": "** Thank You, Server ADMIN!! **"
+                }
+            ]
+        },
+        {
+            "CategoryName": "Admin Support",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Soulz_of_8laze|PvE/PvP|100kStart$ Join our Discord for any Admin help"
+                },
+                {
+                    "DescriptionText": "Accept the rules on Discord to unlock more channels."
+                },
+                {
+                    "DescriptionText": "Create a #ticket reporting the problem"
+                },
+				{
+                    "DescriptionText": "Include a screenshot of item or problem in question - this helps identify what we are looking into!"
+                },
+                {
+                    "DescriptionText": "Use Key Grinder found at Trader to make a Duplicate key in case of key loss."
+                },
+                {
+                    "DescriptionText": "Do not create #tickets for issues mentioned below!"
+                },
+				{
+                    "DescriptionText": "Client has a PBO which is not part of the server or Client has a Newer version."
+                },
+                {
+                    "DescriptionText": "ALWAYS remember to close your Dayz/DZSA launcher when the server restarts,"
+                },
+                {
+                    "DescriptionText": "To allow STEAM to download UPDATES for MODS before Re-joining the Server."
+                },
+				{
+                    "DescriptionText": "This can be SOLVED by simply right click & REPAIR the Mod in Question."
+                },
+                {
+                    "DescriptionText": "If there is a legitimate update, create a #ticket"
+                },
+                {
+                    "DescriptionText": "** Thank You, Server ADMIN!! **"
+                }
+            ]    
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "Accessories",
+            "Results": [
+                "armband_",
+                "armband_white",
+                "eyepatch_improvised"
+            ]
+        },
+        {
+            "CategoryName": "Backpacks",
+            "Results": [
+                "courierbag",
+                "furcourierbag",
+                "furimprovisedbag",
+                "improvisedbag",
+                "leathersack_brown"
+            ]
+        },
+        {
+            "CategoryName": "Base-Building",
+            "Results": [
+                "fencekit",
+                "shelterkit",
+                "territoryflagkit",
+                "watchtowerkit"
+            ]
+        },
+        {
+            "CategoryName": "Camouflage",
+            "Results": [
+                "camonet",
+                "ghillieatt_tan",
+                "ghillieatt_mossy",
+                "ghillieatt_woodland",
+                "ghilliebushrag_tan",
+                "ghilliebushrag_mossy",
+                "ghilliebushrag_woodland",
+                "ghilliehood_tan",
+                "ghilliehood_mossy",
+                "ghilliehood_woodland",
+                "ghilliesuit_tan",
+                "ghilliesuit_mossy",
+                "ghilliesuit_woodland",
+                "ghillietop_tan",
+                "ghillietop_mossy",
+                "ghillietop_woodland"
+            ]
+        },
+        {
+            "CategoryName": "Cooking",
+            "Results": [
+                "fireplace",
+                "firewood",
+                "handdrillkit"
+            ]
+        },
+        {
+            "CategoryName": "Fishing",
+            "Results": [
+                "bait",
+                "bonebait",
+                "bonehook",
+                "improvisedfishingrod"
+            ]
+        },
+        {
+            "CategoryName": "Food",
+            "Results": [
+                "carpfilletmeat",
+                "mackerelfilletmeat",
+                "potato",
+                "slicedpumpkin"
+            ]
+        },
+        {
+            "CategoryName": "Horticulture",
+            "Results": [
+                "pepperseeds",
+                "pumpkinseeds",
+                "tomatoseeds",
+                "zucchiniseeds"
+            ]
+        },
+        {
+            "CategoryName": "Lights",
+            "Results": [
+                "longtorch",
+                "torch"
+            ]
+        },
+        {
+            "CategoryName": "Medical Supplies",
+            "Results": [
+                "bloodbagiv",
+                "salinebagiv",
+                "splint"
+            ]
+        },
+        {
+            "CategoryName": "Melee Weapons",
+            "Results": [
+                "nailedbaseballbat",
+                "stoneknife"
+            ]
+        },
+        {
+            "CategoryName": "Storage",
+            "Results": [
+                "woodencrate"
+            ]
+        },
+        {
+            "CategoryName": "Supplies",
+            "Results": [
+                "boarpelt",
+                "burlapsack",
+                "burlapstrip",
+                "longwoodenstick",
+                "nails",
+                "netting",
+                "rag",
+                "rope",
+                "sharpwoodenstick",
+                "smallstone",
+                "tannedleather",
+                "woodenplank",
+                "woodenstick"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Modifications",
+            "Results": [
+                "sawedoffizh18shotgun"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Attachments",
+            "Results": [
+                "improvisedsuppressor"
+            ]
+        }
+    ]
+}

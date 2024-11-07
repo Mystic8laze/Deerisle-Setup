@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "enabled": 1,
+    "displayOnMap": 1,
+    "notificationTitle": "No Build Zones",
+    "notificationMessage": "You cannot build near {pos}",
+    "ignoreItems": [
+        "LandMineTrap",
+        "BearTrap",
+        "Fireplace"
+    ],
+    "circleColorR": 255,
+    "circleColorG": 100,
+    "circleColorB": 50,
+    "zones": [
+        {
+            "name": "EVENTS",
+            "x": 11680.263671875,
+            "y": 8127.408203125,
+            "r": 530.0
+        }
+    ]
+}

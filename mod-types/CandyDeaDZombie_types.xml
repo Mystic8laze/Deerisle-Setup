@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+    <type name="Zmb_mega_zombie">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_2golov">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_verevo4">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_zubas">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="Wendigo">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+
+    <!-- Wendigo Hairy is broken!-->
+    <type name="Wendigo_Hairy">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_soldier">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_burned_mutation">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_fungal_mutation">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_abnormal_mutation">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_devourer">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_evolved_form">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_evolved_form_burnt">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_evolved_form_humanoid">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="mutant_evolved_form_toxic_blood">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="Monsters_Gharlog">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="Monsters_Reaper">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="Monsters_Syther">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
+    <type name="Candy_2golov_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>   
+    <type name="Candy_verevo4_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_zubas_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_wendigo_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Zmb_mega_zombie_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_zombie01_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_zombie02_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_zombie03_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_zombie04_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_zombie05_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_zombie06_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_zombie06_02_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_zombie06_03_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_zombie06_06_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_gharlog_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Candy_reaper_HAND"> 
+        <lifetime>600</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>    
+</types>

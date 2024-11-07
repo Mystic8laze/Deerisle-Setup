@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+	</classes>
+	<defaults>
+		<defaults name="None" value="None"/>
+		<default name="dyn_radius" value="30"/>
+		<default name="dyn_smin" value="0"/>
+		<default name="dyn_smax" value="0"/>
+		<default name="dyn_dmin" value="1"/>
+		<default name="dyn_dmax" value="5"/>
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="true"/>
+		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_lootspawn" value="true"/>
+		<default name="log_ce_lootcleanup" value="true"/>
+		<default name="log_ce_lootrespawn" value="true"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_storageinfo" value="true"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>	
+	<ce folder="mod-types">
+		<file name="AMS_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Bucaspawnabletypes.xml" type="spawnabletypes" />	
+		<file name="geb_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Lootchest_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="RFFS_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="snafu_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_types.xml" type="types" />
+		<file name="AdvancedScopes_types.xml" type="types" />		
+		<file name="Creatures_types.xml" type="types" />
+		<file name="Animals_types.xml" type="types" />
+		<file name="BBP_types.xml" type="types" />
+		<file name="BBPItemsPack_types.xml" type="types" />
+		<file name="BBP_Xtras_types.xml" type="types" />
+		<file name="Blaze_Created.xml" type="types" />
+		<file name="Blaze_Repacked_types.xml" type="types" />
+		<file name="BLR_types.xml" type="types" />
+		<file name="Boomlay_types.xml" type="types" />
+		<file name="Buca_types.xml" type="types" />
+		<file name="CandyDeaD_types.xml" type="types" />		
+		<file name="CandyDeaDZombie_types.xml" type="types" />
+		<file name="Cannabisplus_types.xml" type="types" />
+		<file name="DNAKeyC_Types.xml" type="types" />
+		<file name="Drugsplus_types.xml" type="types" />
+		<file name="Fallout_types.xml" type="types" />
+		<file name="Fallout_Items_Types.xml" type="types" />	
+		<file name="FlipTransport_types.xml" type="types" />
+		<file name="geb_types.xml" type="types" />
+		<file name="GC_Mini_Figs_types.xml" type="types" />
+		<file name="Ghillie_types.xml" type="types" />
+		<file name="JossieTeddys_types.xml" type="types" />
+		<file name="LastDayZ_types.xml" type="types" />
+		<file name="Lightsword_types.xml" type="types" />
+		<file name="Lootchest_types.xml" type="types" />
+		<file name="MA_types.xml" type="types" />
+		<file name="Meru_Cars_types.xml" type="types" />
+		<file name="MFP_types.xml" type="types" />
+		<file name="MoreMoney_types" type="types" />
+		<file name="MWP-HBd types" type="types" />
+		<file name="HGC_Collectibles_Types.xml" type="types" />
+		<file name="ParagonGun_types.xml" type="types" />		
+		<file name="Paragon_types.xml" type="types" />
+		<file name="PokemonCards_types.xml" type="types" />	
+		<file name="Rag_Baseitems.xml" type="types" />
+		<file name="RFFS_types.xml" type="types" />
+		<file name="snafu_types.xml" type="types" />
+		<file name="Soulz_Owned_types.xml" type="types" />			
+		<file name="Soulz_Cases_types.xml" type="types" />
+		<file name="tofustorage_types.xml" type="types" />
+	</ce>	
+</economycore>

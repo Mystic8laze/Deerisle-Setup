@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types> 
+	<type name="wallpaper_mural_THANOS_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_THANOS_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_BILLIARDS_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CATS_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WOLF_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_BEAR_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FOREST_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FOREST_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FOREST_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FOREST_4">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FOREST_5">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_BEAR_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_BEAR_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_BEAR_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_BEETLE_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_BUCK_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CHICKS_MOTORS_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CHICKS_MOTORS_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CHICKS_MOTORS_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CHICKS_MOTORS_4">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CHICKS_MOTORS_5">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CHICKS_MOTORS_6">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CHICKS_MOTORS_7">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CHICKS_MOTORS_8">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CHICKS_MOTORS_9">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CHICKS_MOTORS_10">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CROC_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CROC_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CROC_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_CROC_4">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FANTASY_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FANTASY_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FANTASY_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FANTASY_4">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FANTASY_5">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FANTASY_6">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FANTASY_7">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FANTASY_8"
+>	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FANTASY_9">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FANTASY_10">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FUNNY_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FUNNY_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FUNNY_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FUNNY_4">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FUNNY_5">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_FUNNY_6">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_GORILLA_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_GORILLA_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_GORILLA_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_GRIMLOCK_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_GRIMLOCK_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_GRIMLOCK_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_JETS_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_JETS_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_JETS_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_JETS_4">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_JETS_5">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_4">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_5">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_6">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_7">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_8">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_9">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_10">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_11">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_12">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_13">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_14">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_15">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_16">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_17">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_18">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_19">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_20">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_21">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_22">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_23">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_24">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NATURE_25">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_NSFW_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_OPTIMUS_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_OPTIMUS_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_OPTIMUS_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_OPTIMUS_4">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_ROO_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_SCORPION_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_SHARK_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_SHARK_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_SHARK_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_SLOTH_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_SLOTH_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_TIGER_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WEASEL_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+ 	<type name="wallpaper_mural_WOLF_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>   
+	<type name="wallpaper_mural_WOLF_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WOLF_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WOLF_4">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WOLF_5">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_1">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_2">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_3">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_4">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_5">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_6">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_7">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_8">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_9">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_10">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_11">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_12">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_13">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="wallpaper_mural_WHEELS_14">	
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+</types>
