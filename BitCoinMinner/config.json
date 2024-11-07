@@ -1,0 +1,40 @@
+{
+    "Instructions0": "The time it takes between each coin increment for low category cards.",
+    "HashTimeLow": 300,
+    "Instructions1": "The time it takes between each coin increment for medium category cards.",
+    "HashTimeMed": 300,
+    "Instructions2": "The time it takes between each coin increment for high category cards.",
+    "HashTimeHIG": 300,
+    "Instructions3": "The total hash value added for low category cards.",
+    "TotalHashValueLow": 0.00009999999747378752,
+    "Instructions4": "The total hash value added for medium category cards.",
+    "TotalHashValueMed": 0.00009999999747378752,
+    "Instructions5": "The total hash value added for high category cards.",
+    "TotalHashValueHIG": 0.00009999999747378752,
+    "Instructions6": "The minimum random additional value for each coin increment.",
+    "RandomAddMin": 0.001500000013038516,
+    "Instructions7": "The maximum random additional value for each coin increment.",
+    "RandomAddMax": 0.001500000013038516,
+    "Instructions8": "The minimum damage applied to the GPU for each coin increment.",
+    "GPUDamageMin": -0.019999999552965165,
+    "Instructions9": "The maximum damage applied to the GPU for each coin increment.(negative is how much it will subtract)",
+    "GPUDamageMax": -0.019999999552965165,
+    "Instructions10": "The list of attachment types for the low category cards.",
+    "AttachmentTypeLow": [
+        "NM_GPU",
+        "NM_GPU1",
+		"NM_GPU2"
+    ],
+    "Instructions11": "The list of attachment types for the medium category cards.",
+    "AttachmentTypeMed": [
+        "NM_GPU",
+        "NM_GPU1",
+		"NM_GPU2"
+    ],
+    "Instructions12": "The list of attachment types for the high category cards.",
+    "AttachmentTypeHigh": [
+        "NM_GPU",
+        "NM_GPU1",
+		"NM_GPU2"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "categoryName": "Weapons",
+            "configs": [
+                {
+                    "jobName": "AKMTier1",
+                    "itemToPrint": "AKM",
+                    "itemToPrintAttachments": [
+                        "Mag_AKM_30Rnd",
+                        "AK_PlasticBttstck"
+                    ],
+                    "filamentRequired": "Red_Filament",
+                    "quantityRequired": 30.0,
+                    "timeRequiredInSeconds": 60.0
+                }
+            ]
+        },
+        {
+            "categoryName": "Tools",
+            "configs": [
+                {
+                    "jobName": "New Printer",
+                    "itemToPrint": "Printer_Printer",
+                    "itemToPrintAttachments": [],
+                    "filamentRequired": "Red_Filament",
+                    "quantityRequired": 30.0,
+                    "timeRequiredInSeconds": 60.0
+                }
+            ]
+        },
+        {
+            "categoryName": "Other",
+            "configs": [
+                {
+                    "jobName": "New Printer",
+                    "itemToPrint": "Printer_Printer",
+                    "itemToPrintAttachments": [],
+                    "filamentRequired": "Red_Filament",
+                    "quantityRequired": 30.0,
+                    "timeRequiredInSeconds": 60.0
+                }
+            ]
+        }
+    ]
+}
