@@ -1,0 +1,82 @@
+{
+    "m_Version": 10,
+    "Enabled": 1,
+    "FrameRateCheckSafeZoneInMs": 0,
+    "CircleZones": [
+        {
+            "Center": [
+                7522.72265625,
+                87.68250274658203,
+                4610.66796875
+            ],
+            "Radius": 60.0
+        },
+        {
+            "Center": [
+                9967.2509765625,
+                15.299299240112305,
+                11166.5458984375
+            ],
+            "Radius": 100.0
+        },
+        {
+            "Center": [
+                5791.39990234375,
+                1.7999999523162842,
+                14554.5
+            ],
+            "Radius": 1.100000023841858
+        },
+        {
+            "Center": [
+                5706.47998046875,
+                1.6063899993896485,
+                14637.099609375
+            ],
+            "Radius": 1.100000023841858
+        },
+        {
+            "Center": [
+                8299.599609375,
+                160.39999389648438,
+                12214.2998046875
+            ],
+            "Radius": 1.100000023841858
+        },
+        {
+            "Center": [
+                5904.33984375,
+                0.0,
+                2447.5400390625
+            ],
+            "Radius": 1.100000023841858
+        },
+        {
+            "Center": [
+                7928.7001953125,
+                5.5,
+                9470.099609375
+            ],
+            "Radius": 1.100000023841858
+        },
+        {
+            "Center": [
+                7930.41845703125,
+                7.371345043182373,
+                9466.6748046875
+            ],
+            "Radius": 1.100000023841858
+        }
+    ],
+    "PolygonZones": [],
+    "CylinderZones": [],
+    "ActorsPerTick": 5,
+    "DisableVehicleDamageInSafeZone": 1,
+    "EnableForceSZCleanup": 1,
+    "ItemLifetimeInSafeZone": 20000.0,
+    "EnableForceSZCleanupVehicles": 0,
+    "VehicleLifetimeInSafeZone": 3600.0,
+    "ForceSZCleanup_ExcludedItems": [
+        "ExpansionVehicleCover"
+    ]
+}

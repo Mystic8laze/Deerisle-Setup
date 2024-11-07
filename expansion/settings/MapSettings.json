@@ -1,0 +1,133 @@
+{
+    "m_Version": 8,
+    "EnableMap": 0,
+    "UseMapOnMapItem": 0,
+    "ShowPlayerPosition": 0,
+    "ShowMapStats": 0,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 0,
+    "CanCreate3DMarker": 0,
+    "CanOpenMapWithKeyBinding": 0,
+    "ShowDistanceOnPersonalMarkers": 0,
+    "EnableHUDGPS": 0,
+    "NeedGPSItemForKeyBinding": 0,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 0,
+    "ShowNameOnServerMarkers": 0,
+    "ShowDistanceOnServerMarkers": 0,
+    "ServerMarkers": [
+        {
+            "m_UID": "Groots Hill Main Traders",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Groots Hill Main Traders",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                7509.54,
+				0,
+				4591
+            ],
+            "m_Locked": 1,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "Circuit Main + Vehicle Traders",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Circuit Main + Vehicle Traders",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                9911.00,
+				0,
+				11161.00
+            ],
+            "m_Locked": 1,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "Georgestown Heli Trader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Georgestown Heli Trader",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+				4196.65,
+				0,
+				4701.15
+            ],
+            "m_Locked": 1,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "Portland Boat/Music Trader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Portland Boat/Music Trader",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+				5795.00,
+				0,
+				14580.50
+            ],
+            "m_Locked": 1,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "Drug Trader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Drug Trader",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+				8299.6,
+				160.4,
+				12214.3
+            ],
+            "m_Locked": 1,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "Stark Castle BM Trader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Stark Castle BM Trader",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+				5904.34,
+				0,
+				2447.54
+            ],
+            "m_Locked": 1,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "Rare + Special Trader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Rare + Special Trader",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+				7928.7,
+				5.5,
+				9470.1
+            ],
+            "m_Locked": 1,
+            "m_Persist": 0
+        }		
+    ],
+    "EnableHUDCompass": 0,
+    "NeedCompassItemForHUDCompass": 0,
+    "NeedGPSItemForHUDCompass": 0,
+    "CompassColor": -1,
+    "CreateDeathMarker": 0,
+    "PlayerLocationNotifier": 0,
+    "CompassBadgesColor": -12783556
+}

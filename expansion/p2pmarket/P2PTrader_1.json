@@ -1,0 +1,39 @@
+{
+    "m_Version": 7,
+    "m_TraderID": 1,
+    "m_ClassName": "ExpansionP2PTraderIrena",
+    "m_Position": [
+        9920.0,
+        21.899999618530275,
+        11194.599609375
+    ],
+    "m_Orientation": [
+        140.71499633789063,
+        0.0,
+        0.0
+    ],
+    "m_LoadoutFile": "YellowKingLoadout",
+    "m_VehicleSpawnPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_WatercraftSpawnPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_AircraftSpawnPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_DisplayName": "Unknown",
+    "m_DisplayIcon": "Deliver",
+    "m_IsGlobalTrader": 1,
+    "m_Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "m_DisplayCurrencyValue": 1,
+    "m_DisplayCurrencyName": ""
+}
